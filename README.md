@@ -1,4 +1,4 @@
-# prevent-orientation
+# flexible-prevent-orientation
 
 Prevent orientation mode on mobile device
 
@@ -10,7 +10,7 @@ Prevent orientation mode on mobile device
 ## Installation
 
 ```sh
-$ yarn add prevent-orientation
+$ yarn add https://github.com/Idan-Neeman/flexible-prevent-orientation
 ```
 
 or
@@ -22,7 +22,7 @@ or
 ## Usage
 
 ```ts
-import {PreventOrientation} from 'prevent-orientation';
+import {PreventOrientation} from 'flexible-prevent-orientation';
 
 // Prevent to portrait orientation
 new PreventOrientation().preventPortrait();
