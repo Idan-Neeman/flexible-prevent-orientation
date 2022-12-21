@@ -58,7 +58,7 @@ export class PreventOrientation {
         padding: '0 5px',
       });
 
-      text.innerText = this.text;
+      text.innerHTML = this.text;
 
       container.appendChild(text);
 
