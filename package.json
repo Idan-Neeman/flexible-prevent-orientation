@@ -1,7 +1,7 @@
 {
-  "name": "prevent-orientation",
+  "name": "flexible-prevent-orientation",
   "version": "2.1.0",
-  "description": "Prevent orientation mode on mobile device",
+  "description": "Flexible Prevent orientation mode on mobile device, allow to set HTML as content",
   "keywords": [
     "orientation",
     "landscape",
@@ -23,12 +23,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/nghiepit/prevent-orientation.git"
+    "url": "git://github.com/Idan-Neeman/flexible-prevent-orientation.git"
   },
   "bugs": {
-    "url": "https://github.com/nghiepit/prevent-orientation/issues"
+    "url": "https://github.com/Idan-Neeman/flexible-prevent-orientation/issues"
   },
-  "homepage": "https://github.com/nghiepit/prevent-orientation",
+  "homepage": "https://github.com/Idan-Neeman/flexible-prevent-orientation",
   "author": "Nghiep <me@nghiepit.dev>",
+  "contributors" : [
+  {
+    "name" : "Idan Neeman",
+    "email" : "idan@livenet.co.il",
+    "url" : "livenet.co.il"
+  }
+ ]
   "license": "MIT"
 }
